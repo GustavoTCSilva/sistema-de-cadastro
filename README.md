@@ -5,5 +5,5 @@
 para utilizar o programa baixe:
 
 ```
-npm install react
+node app.js
 ```
